@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dba_portfolio/static/css/main.80d6717c.css",
+    "main.js": "/dba_portfolio/static/js/main.38e8c7c4.js",
+    "static/media/node-auth-preview.png": "/dba_portfolio/static/media/node-auth-preview.fbb68c62c73d4256edd4.png",
+    "static/media/interactive-gov-mp-preview.png": "/dba_portfolio/static/media/interactive-gov-mp-preview.a45684fa50e160e56835.png",
+    "static/media/interactive-pricing-preview.png": "/dba_portfolio/static/media/interactive-pricing-preview.aee6cf33f041d9d98188.png",
+    "static/media/flashcards-react-preview.png": "/dba_portfolio/static/media/flashcards-react-preview.d2ed1c3cc1846681f8a7.png",
+    "static/media/profile-pic.jpeg": "/dba_portfolio/static/media/profile-pic.24a4eaec634affb5a4e1.jpeg",
+    "static/media/Danny_Baldeon_Abril_CV.pdf": "/dba_portfolio/static/media/Danny_Baldeon_Abril_CV.ce55d3e75425f7492112.pdf",
+    "static/media/Cloudy.svg": "/dba_portfolio/static/media/Cloudy.e3e0bd94244cc9a314a4.svg",
+    "index.html": "/dba_portfolio/index.html",
+    "main.80d6717c.css.map": "/dba_portfolio/static/css/main.80d6717c.css.map",
+    "main.38e8c7c4.js.map": "/dba_portfolio/static/js/main.38e8c7c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80d6717c.css",
+    "static/js/main.38e8c7c4.js"
+  ]
+}
