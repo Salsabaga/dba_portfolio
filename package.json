@@ -1,7 +1,7 @@
 {
   "name": "danny_portfolio",
   "version": "0.1.0",
-  "homepage": "https://salsabaga.github.io/dba_portfolio",
+  "homepage": "https://Salsabaga.github.io/dba_portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
