@@ -68,7 +68,8 @@ const Header = ({ pageRefs }) => {
 						<div>
 							<a
 								href={require("../files/Danny_Baldeon_Abril_CV.pdf")}
-								download="Danny-Baldeon-Abril_CV"
+								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon icon={faFileDownload} size="2x" />
 							</a>
