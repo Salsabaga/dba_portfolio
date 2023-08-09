@@ -54,16 +54,19 @@ export const projects = [
 	},
 	{
 		id: 2,
-		projectName: "NodeJS Authentication Page",
+		projectName: "Interactive Card Details Form",
 		projectDescription:
-			"Landing Page with Login and Register routes for user authentication, made using NodeJs, Express, HTML, SCSS and Passport.js",
-		projectImg: "node-auth-preview",
+			"A Card detail form that changes the details of the card while typing using NextJs and CSS Modules, deployed using Netlify.",
+		projectImg: "interactive-card-form-preview",
 		projectLinks: [
 			{
-				link: "https://github.com/Salsabaga/NodeAuthentication",
+				link: "https://github.com/Salsabaga/InteractiveCreditCardForm",
 				icon: faGithub,
 			},
-			{ link: "https://radiant-depths-59239.herokuapp.com/", icon: faDesktop },
+			{
+				link: "https://eloquent-bubblegum-1ce418.netlify.app/",
+				icon: faDesktop,
+			},
 		],
 	},
 	{
